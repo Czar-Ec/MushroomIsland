@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2020-08-07 21:35:55 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2020-06-16 23:28:02 +0100"
@@ -410,6 +416,12 @@
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2020-07-03 09:36:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2020-08-07 22:21:07 +0100"
     },
     "done": true
   },
@@ -874,6 +886,7 @@
       "minecraft:phantom": "2020-07-03 23:26:32 +0100",
       "minecraft:witch": "2020-06-26 23:22:29 +0100",
       "minecraft:piglin": "2020-06-26 22:57:15 +0100",
+      "minecraft:silverfish": "2020-08-07 21:24:03 +0100",
       "minecraft:zombie": "2020-06-12 17:03:35 +0100",
       "minecraft:drowned": "2020-07-03 16:57:23 +0100"
     },
@@ -942,6 +955,12 @@
   "minecraft:recipes/decorations/crimson_sign": {
     "criteria": {
       "has_crimson_planks": "2020-06-26 23:11:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2020-08-07 21:35:55 +0100"
     },
     "done": true
   },
@@ -3943,6 +3962,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2020-08-07 21:35:55 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2020-06-12 23:29:47 +0100"
@@ -3973,5 +3998,5 @@
     },
     "done": true
   },
-  "DataVersion": 2567
+  "DataVersion": 2580
 }
